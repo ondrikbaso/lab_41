@@ -1,0 +1,83 @@
+    1  cd lab_41
+    2  git init
+    3  git remote add origin https://github.com/ondrikbaso/lab_41.git
+    4  git commit -m "first commit"
+    5  git remote -v
+    6  git push -u origin master
+    7  git status
+    8  git add .
+    9  git status
+   10  git commit -m “first”
+   11  git push -u origin master
+   12  git checkout -b b1
+   13  Checkout branch master
+   14  git checkout branch master
+   15  git chackout master
+   16  git checkout master
+   17  git add .
+   18  git commit -m “longer”
+   19  git push -u origin master
+   20  git checkout b1
+   21  git add .
+   22  git branch
+   23  git add .
+   24  git git commit -m “ears”
+   25  git status
+   26  git commit -m “ears”
+   27  git push -u origin b1
+   28  git add .
+   29  git commit -m “ears”
+   30  git push -u origin b1
+   31  git add .
+   32  git commit -m “ears”
+   33  git push -u origin b1
+   34  history
+   35  git add .
+   36  git commit -m "ears""
+   37  cd c
+   38  ls
+   39  cd C:\lab_41
+   40  git serve
+   41  git status
+   42  git add .
+   43  git commit -m "ears"
+   44  git push -u origin b1
+   45  git add .
+   46  git commit -m "ears"
+   47  git push -u origin b1
+   48  git add .
+   49  git commit -m "ears"
+   50  git push -u origin b1
+   51  git add .
+   52  git commit -m "ears"
+   53  git push -u origin b1
+   54  git add .
+   55  git commit -m "ears"
+   56  git push -u origin b1
+   57  git checkout master
+   58  git merge b1 -m "merge"
+   59  vi ShortCat.txt 
+   60  git status
+   61  git pushgit push
+   62  git push -u origin master
+   63  git checkout -d b1
+   64  git branch -d b1
+   65  git checkout -b b2
+   66  git checkout master
+   67  git add .
+   68  git commit -m “belt”
+   69  git push -u origin master
+   70  git checkout b2
+   71  git add .
+   72  git commit -m “beltx”
+   73  git push -u origin b2
+   74  git checkout master
+   75  git merge b2 -m "merge"
+   76  git add .
+   77  git commit -m “beltx”
+   78  git push -u origin master
+   79  git branch -d b2
+   80  git add .
+   81  git commit -m “beltx”
+   82  git push -u origin master
+   83  history>log.log
